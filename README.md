@@ -74,3 +74,8 @@ AI-Customer-Support-Chatbot
 ```bash
 git clone <repository-url>
 
+## Application Preview
+
+<img width="1920" height="1080" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/838a2f02-d8a9-4343-bce3-0ac4fc6062e2" />
+
+
